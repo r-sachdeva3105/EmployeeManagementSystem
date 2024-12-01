@@ -4,11 +4,12 @@
 A simple web application built using Spring Boot, JSP, and JSTL, allowing users to manage employees. The application provides features to list, add, edit, and view employee details.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/faf0120d-ab24-4258-9fdf-4675ea282e0a)
 
-![image](https://github.com/user-attachments/assets/ad759840-a051-4ec9-a0ac-c2407265c269)
+![image](https://github.com/user-attachments/assets/ceef3945-1620-45e8-b66b-3ad5f2b6cd8f)
 
-![image](https://github.com/user-attachments/assets/f5383ae0-856a-4a07-ae9a-924671069a72)
+![image](https://github.com/user-attachments/assets/0f48d18c-e5c2-463f-9b80-dfe3bdf0fbe0)
+
+![image](https://github.com/user-attachments/assets/eef323f1-0dc6-47e5-9e57-82a62f01e6f7)
 
 
 ## Features
